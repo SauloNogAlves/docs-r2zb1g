@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SauloNogAlves.github.io/docs-r2zb1g/sitemap.xml
